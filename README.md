@@ -5,6 +5,7 @@ School Management System is an frond-end and back-end project based on Servlet(j
 This project has 2 Modules are as Follows:
 1. Teacher
 2. Student
+
 Tools and Technologies used:-
 Eclipse IDE
 Maven 4.0
